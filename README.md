@@ -1,1 +1,1 @@
-# ptarmigan
+# PtarmiganOS
